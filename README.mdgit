@@ -1,0 +1,2 @@
+"# weather-app"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Laksheya/weather-app.gitgit push -u origin main
+"# weather-app"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Laksheya/weather-app.gitgit push -u origin main
